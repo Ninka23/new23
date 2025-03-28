@@ -4,6 +4,8 @@ console.log(a+b)*/
 
 
 
+
+
 /*let student={
     firstname: "Nino",
     lastname: "Benidze",
@@ -16,6 +18,9 @@ console.log(a+b)*/
 console.log(student.firstname)*/
 
 
+
+
+
 /*let m=45;
 let n=23;
 
@@ -24,16 +29,28 @@ if(m>n)
 else {console.log(n);}*/
 
 
+
+
+
+
 /*let studentname = "Nino";
 console.log("Rise and shine," + studentname +"!");*/
+
+
+
 
 
 /*let salary= 1800;
 let bonus;
 
+
+
+
 if (salary>=2000){bonus=0;}
 else {bonus=salary*0.10;}
 console.log("bonus", bonus);*/
+
+
 
 
 /*let a=23;
@@ -42,10 +59,9 @@ let c=a+b;
 
 console.log(c); */
 
-
-/*let phones = ["iPhone", "samsung", "pixel", "huawei","xiaomi"];
+let phones=["iphone","samsung","pixel","huawei","xiaomi"];
 console.log(phones);
-console.log(phones[0], phones[phones.length-1]);*/
+console.log(phone[0], phones[phones.length-1]);
 
 
 
