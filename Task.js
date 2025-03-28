@@ -43,9 +43,9 @@ let c=a+b;
 console.log(c); */
 
 
-let phones = ["iPhone", "samsung", "pixel", "huawei","xiaomi"];
+/*let phones = ["iPhone", "samsung", "pixel", "huawei","xiaomi"];
 console.log(phones);
-console.log(phones[0], phones[phones.length-1]);
+console.log(phones[0], phones[phones.length-1]);*/
 
 
 
